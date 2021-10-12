@@ -1,5 +1,5 @@
 # macOSicons source
 
-<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a>
+[![Creative Commons License](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by-nc-sa.svg)](http://creativecommons.org/licenses/by-nc-sa/4.0/)
 
-Source files of the icons contributed to [macosicons.com](https://macosicons.com/u/GeniuSven)
+Source files of the icons contributed to [macosicons.com](https://macosicons.com/u/SvenFE)
